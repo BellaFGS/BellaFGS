@@ -1,16 +1,23 @@
-## Hi there 👋
+##  <span align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fecb00&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Bella+ヾ(•ω•`)o;Bem-vindo+ao+meu+GitHub+✍(◔◡◔)" alt="Typing SVG" />
+</span>
 
-<!--
-**BellaFGS/BellaFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Artista & Desenvolvedora** 💻
 
-Here are some ideas to get you started:
+Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explorando coisas novas e sendo uma criativa incurável.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="right" style="border: 2px solid #f75c7e; padding: 10px; border-radius: 10px; background-color: #2d2d2d; color: #fff;">
+  <i>"A criatividade é a ciência se divertindo."</i> - Albert Einstein
+</div>
+
+---
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BellaFGS&layout=compact&theme=outrun)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BellaFGS&show_icons=true&theme=outrun)
+
+---
+
+
+
