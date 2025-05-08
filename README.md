@@ -69,8 +69,11 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 
 > "Fortes são aqueles que transformam em luz aquilo que é escuridão." — **Forfun(Sigo o som)**
 
-![snake gif](https://github.com/BellaFGS/BellaFGS/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=BellaFGS&repo=BellaFGS&theme=react)](https://github.com/BellaFGS/BellaFGS)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BellaFGS/BellaFGS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BellaFGS/BellaFGS/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BellaFGS/BellaFGS/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
