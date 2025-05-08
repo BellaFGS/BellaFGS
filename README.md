@@ -70,7 +70,6 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 > "Fortes são aqueles que transformam em luz aquilo que é escuridão." — **Forfun(Sigo o som)**
 
 
-![Snake animation](https://github.com/isabellafgs/BellaFGS/blob/output/github-contribution-grid-snake.svg)
 
 
 
