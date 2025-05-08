@@ -20,4 +20,53 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 ---
 
 
+### 🚀 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-ferreira-gomes-da-silva-355734248) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bella_f.g.s/) 
+
+---
+
+### ⚙️ Linguagens e Ferramentas
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px"/><br>Kotlin</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40px"/><br>Android</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40px"/><br>Godot</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/><br>PHP</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/><br>C++</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px"/><br>SQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/><br>GitHub</td>
+  </tr>
+  <tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px"/><br>Photoshop</td>
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="40px"/><br>Canva</td>
+  <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" width="40px"/><br>CyberSecurity</td>
+</tr>
+
+</table>
+
+
+---
+
+### 📌 Projetos em andamento
+
+- Toby e Pam
+- Gerenciador de receitas inteligente
+- Physics stick
+
+### 💬 Reflexões
+
+> "Fortes são aqueles que transformam em luz aquilo que é escuridão." — **Forfun(Sigo o som)**
+
 
