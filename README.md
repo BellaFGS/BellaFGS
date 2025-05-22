@@ -22,7 +22,6 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 
 ### 🚀 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-ferreira-gomes-da-silva-355734248) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bella_f.g.s/) 
 
 ---
