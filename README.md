@@ -15,7 +15,6 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BellaFGS&layout=compact&theme=outrun)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BellaFGS&show_icons=true&theme=outrun)
 
 ---
 
@@ -51,6 +50,7 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px"/><br>Photoshop</td>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="40px"/><br>Canva</td>
   <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" width="40px"/><br>CyberSecurity</td>
+  <td align="center"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="40px"/><br>Figma</td>
 </tr>
 
 </table>
