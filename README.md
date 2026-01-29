@@ -14,11 +14,6 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BellaFGS&layout=compact&theme=outrun)
-
----
-
-
 ### 🚀 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bella_f.g.s/) 
