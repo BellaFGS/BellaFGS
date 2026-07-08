@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fecb00&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Bella+ヾ(•ω•`)o;Bem-vindo+ao+meu+GitHub+✍(◔◡◔)" alt="Typing SVG" />
 </span>
 
-🎨 **Artista & Desenvolvedora** 💻
-
-Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explorando coisas novas e sendo uma criativa incurável.
-
+**Analista De Sistemas && Desenvolvedora De Software**
 
 <div align="right" style="border: 2px solid #f75c7e; padding: 10px; border-radius: 10px; background-color: #2d2d2d; color: #fff;">
   <i>"A criatividade é a ciência se divertindo."</i> - Albert Einstein
@@ -14,9 +11,9 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 ---
 
 
-### 🚀 Conecte-se comigo
+### Certificados
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bella_f.g.s/) 
+[![Repositório](https://img.icons8.com/?size=100&id=116708&format=png&color=000000)](https://github.com/BellaFGS/Certificados) 
 
 ---
 
@@ -55,9 +52,10 @@ Apaixonada pelas artes do mundo e a profundidade do ser e não ser. Sempre explo
 
 ### 📌 Projetos em andamento
 
-- Toby e Pam
-- Gerenciador de receitas inteligente
+- Livro Tóby e Pam
+- EscapeMine
 - Physics stick
+- Soul+
 
 ### 💬 Reflexões
 
