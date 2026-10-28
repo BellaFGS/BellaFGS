@@ -74,7 +74,7 @@ Jogo desenvolvido com **Godot e GDScript**, explorando mecânicas de movimentaç
 
 **Tecnologias:** `Godot` `GDScript` `Android`
 
-<a href="https://github.com/BellaFGS/Projeto_IOT_Semafaro">
+<a href="https://github.com/BellaFGS/EscapeMine">
   <img src="https://img.shields.io/badge/Ver_projeto-292929?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -89,7 +89,7 @@ Sistema IoT voltado à simulação e ao gerenciamento inteligente de tráfego, i
 
 **Tecnologias:** `JavaScript` `Node.js` `IoT` `SQLite`
 
-<a href="https://github.com/BellaFGS/EscapeMine">
+<a href="https://github.com/BellaFGS/Projeto_IOT_Semafaro">
   <img src="https://img.shields.io/badge/Ver_projeto-292929?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
